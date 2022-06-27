@@ -6,3 +6,4 @@ $\frac{1}{\sqrt{2}}\vert🐱\rangle + \frac{1}{\sqrt{2}}\vert💀\rangle$
 
 $\frac{1}{\sqrt{2}}\vert😀\rangle + \frac{1}{\sqrt{2}}\vert😢\rangle$
 
+$\frac{e^{2}}{mc^{2}}\sqrt{-1}\frac{PV}{nR}$
